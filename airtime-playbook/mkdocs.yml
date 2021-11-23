@@ -1,0 +1,29 @@
+site_name: Airtime Playbook
+site_url: https://example.com/
+markdown_extensions:
+  - meta
+  - attr_list
+nav:
+    - Home: 'index.md'
+    - 'Scheduling user sessions':
+        - 'scheduling_tool.md'
+        - 'scheduling_consent.md'
+        - 'scheduling_recruiting.md'
+    - Involving stakeholders:
+        - 'stakeholder_buyin.md'
+        - 'stakeholder_calendar.md'
+        - 'stakeholder_streaming.md'
+    - Impact Survey:
+        - 'survey_roi.md'
+        - 'survey_template.md'
+        - 'survey_execution.md'
+        - 'survey_results.md'
+theme:
+  name: material
+  palette:
+    primary: indigo
+    accent: pink
+  features:
+    - navigation.sections
+extra:
+  generator: false
