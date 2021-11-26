@@ -6,7 +6,7 @@ markdown_extensions:
 nav:
     - Home: 'index.md'
     - 'Scheduling user sessions':
-        - 'scheduling_plan'.md
+        - 'scheduling_plan.md'
         - 'scheduling_tool.md'
         - 'scheduling_consent.md'
         - 'scheduling_recruiting.md'
