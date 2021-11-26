@@ -61,7 +61,7 @@ Such indicators provide an easy to understand KPI for research participation. We
 Trying to implement big changes all at once hardly ever succeeds. We recommend starting small with research participation, in the form of a pilot project.
 
 1. Select your next research project where you will talk to customers.
-2. Identify the product team or (teams) that the project is relevant to.
+2. Identify the product team (or teams) that the project is relevant to.
     - Ideally, you should start with a team working on more customer-facing features, as they have a naturally higher interest in engaging with customers
 3. Brief the leads and the teams about what to expect and get their buy-in. The goal should be to get everyone to participate in 2 sessions.
 4. Run an initial survey before the project start to gauge their current level of understanding the user needs and other key metrics (more on this under [Impact Surveys](/survey_roi.md))

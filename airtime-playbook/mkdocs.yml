@@ -1,4 +1,4 @@
-site_name: Airtime Playbook
+site_name: The Collaborative UX Research Playbook
 site_url: https://example.com/
 markdown_extensions:
   - meta
@@ -6,11 +6,13 @@ markdown_extensions:
 nav:
     - Home: 'index.md'
     - 'Scheduling user sessions':
+        - 'scheduling_plan'.md
         - 'scheduling_tool.md'
         - 'scheduling_consent.md'
         - 'scheduling_recruiting.md'
     - Involving stakeholders:
         - 'stakeholder_buyin.md'
+        - 'stakeholder_collaborative_research.md'
         - 'stakeholder_calendar.md'
         - 'stakeholder_streaming.md'
     - Impact Survey:
