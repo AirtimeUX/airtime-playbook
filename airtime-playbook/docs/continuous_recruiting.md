@@ -1,4 +1,4 @@
-# Recruiting participants
+# Setting up a recruitment pipeline
 
 Once you have set up your booking link, you have to share it with a large audience to recruit participants for your projects. There are a number of ways to effectively achieve this.
 
@@ -9,8 +9,8 @@ The most basic way of recruting participants is sending them an email asking to 
 
 CRM and Email marketing tools are especially helpful for sending out mass emails.
 
-- [Salesforce](https://salesforce.com)
-- [Mailchimp](https://mailchimp.com/)
+- [Salesforce](https://salesforce.com){target=_blank}
+- [Mailchimp](https://mailchimp.com/){target=_blank}
 
 ## Embedding in your website
 
@@ -31,6 +31,7 @@ These tools usually require little to no coding, but some thought to set up.
 Some examples for this approach are:
 
  - [Popupsmart](https://popupsmart.com/explore-features/
-)
- - [Hubspot Popup Form](https://www.hubspot.com/products/marketing/pop-up-form)
+){target=_blank}
+ - [Hubspot Popup Form](https://www.hubspot.com/products/marketing/pop-up-form){target=_blank}
+ - [Hotjar Surveys](https://www.hotjar.com/){target=_blank}
  

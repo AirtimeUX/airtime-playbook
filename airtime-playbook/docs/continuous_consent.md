@@ -1,4 +1,4 @@
-# Getting consent
+# Automating consent
 
 To comply with GDPR requirements you need to make sure that every participant has given consent before participating in research.
 
@@ -9,7 +9,7 @@ To comply with GDPR requirements you need to make sure that every participant ha
 This is a barebones and straightforward approach consisting of only free steps:
 
 1. **Upload your consent form to a publicly accessible link.** A public PDF in google drive will do.
-2. **Create a shortened link to the form.** This improves readability and gets around the character limit for Calendly questions. You can use a link shortener service like [bit.ly](https://www.bitly.com).
+2. **Create a shortened link to the form.** This improves readability and gets around the character limit for Calendly questions. You can use a link shortener service like [bit.ly](https://www.bitly.com){target=_blank}.
 3. **Set up a custom question in calendly using the link to your form.** Make sure the question is required.
 
 ![Calendly consent question](img/calendly_consent_question.png)

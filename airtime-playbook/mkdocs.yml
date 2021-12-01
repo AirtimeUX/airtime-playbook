@@ -5,22 +5,22 @@ markdown_extensions:
   - attr_list
 nav:
     - Home: 'index.md'
-    - 'Scheduling user sessions':
-        - 'scheduling_plan.md'
-        - 'scheduling_tool.md'
-        - 'scheduling_consent.md'
-        - 'scheduling_recruiting.md'
-    - Involving stakeholders:
-        - 'stakeholder_buyin.md'
-        - 'stakeholder_collaborative_research.md'
-        - 'stakeholder_calendar.md'
-        - 'stakeholder_streaming.md'
-    - Impact Survey:
-        - 'survey_roi.md'
-        - 'survey_template.md'
-        - 'survey_execution.md'
-        - 'survey_results.md'
+    - Making User Research Continuous:
+        - 'continuous_plan.md'
+        - 'continuous_appointment_scheduling.md'
+        - 'continuous_consent.md'
+        - 'continuous_recruiting.md'
+    - Making User Research Collaborative:
+        - 'collaborative_buyin.md'
+        - 'collaborative_calendar.md'
+        - 'collaborative_note_debrief.md'
+        - 'collaborative_streaming.md'
+    - Measuring the Impact of User Exposure:
+        - 'impact_roi.md'
+        - 'impact_survey.md'
 theme:
+  logo: assets/airtime_logo_icon_white_32px.svg
+  favicon: assets/favicon.svg
   name: material
   palette:
     primary: indigo
