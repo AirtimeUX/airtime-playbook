@@ -21,7 +21,7 @@ This document will teach you
     - Add section on measuring the time you spend with stakeholders somewhere in the last section
 
 - Add templates and resources:
-  - Planning template
-  - Note taking and debriefing template
-  - Survey template and dashboard
-  - ...
+    - Planning template
+    - Note taking and debriefing template
+    - Survey template and dashboard
+    - ...
