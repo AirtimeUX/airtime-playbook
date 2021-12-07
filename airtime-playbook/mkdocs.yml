@@ -18,6 +18,8 @@ nav:
     - Measuring the Impact of User Exposure:
         - 'impact_roi.md'
         - 'impact_survey.md'
+    - Resources:
+        - 'resources_templates.md'
 theme:
   logo: assets/airtime_logo_icon_white_32px.svg
   favicon: assets/favicon.svg

@@ -2,62 +2,62 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://example.com/</loc>
-         <lastmod>2021-12-01</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://example.com/about/</loc>
-         <lastmod>2021-12-01</lastmod>
+         <lastmod>2021-12-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/collaborative_buyin/</loc>
-         <lastmod>2021-12-01</lastmod>
+         <lastmod>2021-12-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/collaborative_calendar/</loc>
-         <lastmod>2021-12-01</lastmod>
+         <lastmod>2021-12-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/collaborative_note_debrief/</loc>
-         <lastmod>2021-12-01</lastmod>
+         <lastmod>2021-12-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/collaborative_streaming/</loc>
-         <lastmod>2021-12-01</lastmod>
+         <lastmod>2021-12-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/continuous_appointment_scheduling/</loc>
-         <lastmod>2021-12-01</lastmod>
+         <lastmod>2021-12-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/continuous_consent/</loc>
-         <lastmod>2021-12-01</lastmod>
+         <lastmod>2021-12-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/continuous_plan/</loc>
-         <lastmod>2021-12-01</lastmod>
+         <lastmod>2021-12-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/continuous_recruiting/</loc>
-         <lastmod>2021-12-01</lastmod>
+         <lastmod>2021-12-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/impact_roi/</loc>
-         <lastmod>2021-12-01</lastmod>
+         <lastmod>2021-12-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/impact_survey/</loc>
-         <lastmod>2021-12-01</lastmod>
+         <lastmod>2021-12-07</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://example.com/resources_templates/</loc>
+         <lastmod>2021-12-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>

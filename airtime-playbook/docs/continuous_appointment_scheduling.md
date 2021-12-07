@@ -1,7 +1,7 @@
 # Using an appointment scheduling tool
 
 To make the scheduling of user sessions easy, we recommend using an online appointment scheduling service.
-These tools can save you a lot of time by providing end users with a simple calendar interface where they can sign ip to a timeslot when you're available. They can also automatically handle if a participant needs to reschedule or cancel, saving you a lot of email ping-pong.
+These tools can save you a lot of time by providing end users with a simple calendar interface where they can sign up to a timeslot when you're available. They can also automatically handle if a participant needs to reschedule or cancel, saving you a lot of email ping-pong.
 
 The most popular tool in this space is [Calendly](https://calendly.com/){target=_blank}. The free version is enough for executing a single research project, for long-term use a paid version is necessary.
 
@@ -26,6 +26,6 @@ To understand the basics of Calendly, follow the below tutorial:
 
 ## Using Invitee Questions to segment participants
 
-Calendly has a useful feature that lets you collect information from participants when they sign up to a session. This is a good opportunity to gather some demographic and segmentation data that's relevant for your research project.
+Calendly has a useful feature that lets you collect information from participants when they sign up for a session. This is a good opportunity to gather some demographic and segmentation data that are relevant for your research project.
 
 [<img src="https://embedwistia-a.akamaihd.net/deliveries/283bd6932c489cce7303db1113135016f2c63192.jpg?image_play_button_size=2x&amp;image_crop_resized=960x600&amp;image_play_button=1&amp;image_play_button_color=54bbffe0" />](https://help.calendly.com/hc/en-us/articles/360000234614-Video-Tutorials?wvideo=p89li86dz0){target=_blank}

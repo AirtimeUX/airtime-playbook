@@ -1,27 +1,14 @@
 # Welcome to the Collaborative User Research Playbook
 
-This goal of this guide is to implement processes that
+Every product company wants to build better products faster. Modern product teams are already good at **building** and releasing products quickly and iteratively but tend to lag behind, when it comes to **learning** about their users at the same speed. 
 
-1. Make user research **continuous**
-2. Make user research **collaborative**
-3. Measure the impact of collaborative research on ux maturity.
+This guide contains a practical set of processes and techniques that you can implement to create a fast and lightweight user research practice that makes an impact within your organization.
 
-This document will teach you
+Fast research has 3 pillars:
 
-- How to schedule user sessions efficiently
-- How to involve stakeholders in the research process
-- How to use the Impact Survey to measure research ROI
+1. Make user research **continuous** by automating your recruitment pipeline and other administrative tasks.
+2. Make user research **collaborative** by involving stakeholders in research and directly exposing them to users, so you develop better insights and make them stick.
+3. **Measure the impact** of collaborative research, so you can monitor and manage the development of your organization's UX Maturity.
 
-**Todos**:
 
-- Add articles:
-    - Making a plan for continuous research
-    - Collaborative note taking and debriefing
-    - Update home page content
-    - Add section on measuring the time you spend with stakeholders somewhere in the last section
-
-- Add templates and resources:
-    - Planning template
-    - Note taking and debriefing template
-    - Survey template and dashboard
-    - ...
+**This guide was brought to you by [Airtime](https://airtimeux.com/).** We build dedicated software to enable researchers to set up a continuous and collaborative research practice. Check out the website to learn more!

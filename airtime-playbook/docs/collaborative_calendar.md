@@ -1,6 +1,6 @@
 # Setting up a stakeholder calendar
 
-An internal research calendar can be a useful tool to keep opportunities to participate in research on the radar of stakeholders, and simplifies administration.
+An internal research calendar can be a useful tool to keep opportunities to participate in research on the radar of stakeholders and simplify administration.
 
 ## Setting up Google Calendar
 
@@ -16,14 +16,14 @@ An internal research calendar can be a useful tool to keep opportunities to part
 
 **Step 3:** Set sharing settings for the calendar.
 
-Select `Make available for {Your organization}` under `Access permissions for events` and select `See all event details`. Alternatively, if you want to share the calendar outside of your oganization, you can select `Make available to public`, however in this case the calendar will be discoverable and accessible by anyone, which might not be somehting you want.
+Select `Make available for {Your organization}` under `Access permissions for events` and select `See all event details`. Alternatively, if you want to share the calendar outside of your organization, you can select `Make available to public`, however in this case the calendar will be discoverable and accessible by anyone, which might not be something you want.
 
 Add any other researchers from your team under `Share with specific people` to give them access to `Manage changes and manage sharing`.
 
 ![Configuring sharing settings in google calendar](img/gcal_sharing_1.png){: style="width:50%"}
 
 **Step 4:** Share the calendar.
-Click the `Get shareable link` button under `Access permissions for events`. The link will add the calendar for any stakeholder that clicks it. Share it in slack, email and any other communication channel you have. This is a good opportunity to promote your reserach and get people interested in participating.
+Click the `Get shareable link` button under `Access permissions for events`. The link will add the calendar for any stakeholder that clicks it. Share it in slack, email, and any other communication channel you have. This is a good opportunity to promote your research and get people interested in participating.
 
 
 ## Using Google Calendar
@@ -39,7 +39,7 @@ The advantage of this approach is that if a participant cancels or reschedules, 
 
 ### Approach 2: Copying the event
 
-You can also copy the event to your internal research calendar. This gives you the opportunity to change the details, but if any changes are made to the original event, you will have to update the event in the research calendar manually.
+You can also copy the event to your internal research calendar. This allows you to change the details, but if any changes are made to the original event, you will have to update the event in the research calendar manually.
 
 ![Google calendar event copying](img/gcal_event_2.png){: style="width:50%"}
 
