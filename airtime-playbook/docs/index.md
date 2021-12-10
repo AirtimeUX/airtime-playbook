@@ -10,5 +10,8 @@ Fast research has 3 pillars:
 2. Make user research **collaborative** by involving stakeholders in research and directly exposing them to users, so you develop better insights and make them stick.
 3. **Measure the impact** of collaborative research, so you can monitor and manage the development of your organization's UX Maturity.
 
+<br />
+
+[<img src="/img/airtime_banner.svg" style="width:50%;"/>](https://airtimeux.com){target=_blank}
 
 **This guide was brought to you by [Airtime](https://airtimeux.com/).** We build dedicated software to enable researchers to set up a continuous and collaborative research practice. Check out the website to learn more!
