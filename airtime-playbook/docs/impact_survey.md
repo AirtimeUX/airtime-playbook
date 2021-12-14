@@ -7,7 +7,7 @@ An Impact Survey has two goals:
 
 Impact Surveys are sent out periodically to teams and include questions in areas that are expected to be impacted by participating in research. They are a self-evaluation tool and the primary audience is the team itself. Instead of a static collection of survey responses, it's important to discuss the results with the team and collaboratively discover ways to improve.
 
-Impact Surveys are not a replacement for other design metrics, but a useful, human-centric addition. It is still a good idea to track qualitative design metrics, such as CSAT, and include targets for them in your development projects.
+Impact Surveys are not a replacement for other design metrics, but a useful human-centric addition. It is still a good idea to track qualitative design metrics, such as CSAT, and include targets for them in your development projects.
 
 ## Question types
 
@@ -37,7 +37,7 @@ Questions in an Impact Survey should measure areas that you expect to be positiv
 **Business metric**: Employee retention.  
 **Survey statement**: I feel motivated by engaging with users.  
 
-> Motivation is an often overlooked benefit of customer exposure. Seeing the products and features they have worked on in action and helping other people is one of the best ways to make people feel their work is meaningful.
+> Motivation is an often-overlooked benefit of customer exposure. Seeing the products and features they have worked on in action and helping other people is one of the best ways to make people feel their work is meaningful.
 
 ## Template
 

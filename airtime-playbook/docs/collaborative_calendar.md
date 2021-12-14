@@ -1,6 +1,6 @@
 # Setting up a stakeholder calendar
 
-An internal research calendar can be a useful tool to keep opportunities to participate in research on the radar of stakeholders and simplify administration.
+An internal research calendar can be a useful tool to keep participation opportunities on the radar of stakeholders and simplify administration.
 
 ## Setting up Google Calendar
 

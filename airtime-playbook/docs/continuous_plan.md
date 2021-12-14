@@ -1,6 +1,6 @@
 # Making a plan for continuous research
 
-Continuous research is defined as *Regular (weekly) touchpoints with customers, by the team building the product, where they conduct small research activities in pursuit of a desired product outcome.*
+Continuous research is defined as *Regular (weekly) touchpoints with customers by the team building the product, where they conduct small research activities in pursuit of a desired product outcome.*
 
 It is a research process that's accessible and understandable to everyone on the team and generates insights in fast loops, as they are needed to answer research questions. Continuous research makes customer research a part of every product release, instead of an occasional large project.
 
@@ -22,7 +22,7 @@ Continuous research relies heavily on automation. Te set up a continuous researc
         - Customer lifecycle events
         - Exit interviews
     - Scheduled
-        - Periodic research - ex weekly customer council meetings.
+        - Periodic research - e.g. weekly customer council meetings.
         - Segment-based (regular samples across personas)
         
 ## 2. Define triggers and actions

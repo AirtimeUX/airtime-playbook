@@ -1,30 +1,30 @@
 # Getting buy-in
 
-It is well understood that involving stakeholders in user research is hugely valuable, and a **critical for creating a user-centric organization** that builds great products.
+It is well understood that involving stakeholders in user research is hugely valuable, and **critical for creating a user-centric organization** that builds great products.
 
-Yet the most common objection we hear is ***"Aint nobody got time for that"***. People are busy shipping features, putting out fires, and dealing with their daily jobs. To some extent, this is normal. Every organization has conflicting priorities and there are always short-term problems to solve, but if the product team doesn't understand users, it leads to a deadly spiral of more short-term problems and failed products.
+Yet the most common objection we hear is ***"Ain't nobody got time for that"***. People are busy shipping features, putting out fires, and dealing with their daily jobs. To some extent, this is normal. Every organization has conflicting priorities and there are always short-term problems to solve, but if the product team doesn't understand users, it leads to a deadly spiral of more short-term problems and failed products.
 
 It's an ever-present challenge for user researchers to make sure that participating in research gets the priority it deserves. We have gathered some best practices to help.
 
 ## Make it easy
 
-Treat your research as your product and your stakeholders like your customer. If a product is difficult to buy, people don't buy it. The easier you make it to participate in your research, the less resistance you will see from the product team, or even other stakeholders, like leadership.
+Treat your research as your product and your stakeholders like your customers. If a product is difficult to buy, people don't buy it. The easier you make it to participate in your research, the less resistance you will see from the product team, or even other stakeholders, like leadership.
 
 Setting up an **[Internal Research Calendar](/collaborative_calendar)** and **proactively notifying stakeholders** about opportunities to join research is a good way to start.
 
 ## Make it engaging
 
-Ever heard the phrase, *"Research reports are where insights go to die?"*. The sad reality is that static presentations of research results are boring and don't engage stakeholders. In our UX consulting projects we have seen many companies put tremendous effort into creating well-structured presentations, insight repositories, and short video supercuts of user interviews. While these assets have their place in user research, despite the gargantuan editorial work that goes into creating them, they fail to make an impact as barely anyone reads them. They are not enough on their own.
+Ever heard the phrase, *"Research reports are where insights go to die?"* The sad reality is that static presentations of research results are boring and don't engage stakeholders. In our UX consulting projects we have seen many companies put tremendous effort into creating well-structured presentations, insight repositories, and short video supercuts of user interviews. While these assets have their place in user research, despite the gargantuan editorial work that goes into creating them, they fail to make an impact as barely anyone reads them. They are not enough on their own.
 
 Humans are excited by interactions with other humans and deep insights are developed through active engagement and not passive consumption. User research should be fun for everyone and not the bitter prescribed medicine. 
 
 We recommend giving participants **5-15 minutes of airtime** in each user session to ask their questions and validate their own assumptions. This also improves the research results, as everybody can bring their own expertise and viewpoints to the table and uncover additional insights.
 
-Additionally, make sure that you **brief and allocate tasks** to participants before the interview, such as noting down their 5 most important learnings to make sure that they are actively engaged.
+Additionally, make sure that you **brief** participants and **allocate tasks** to them before the interview, such as noting down their 5 most important learnings, to make sure they are actively engaged.
 
 > **But all that bias!**
 >
-It is a valid concern, that if somebody participates in one or two sessions they can walk away with biased, skewed, and statistically insignificant conclusions of user needs. The good news is, that once somebody engaged with users, they will have developed a genuine curiosity for the big picture. Make sure to organize a recap or synthesis session at the end of a research project where all stakeholders can participate and hone their insights.
+It is a valid concern, that if somebody participates in one or two sessions, they can walk away with biased, skewed, and statistically insignificant conclusions of user needs. The good news is that once somebody engaged with users, they will have developed a genuine curiosity for the big picture. Make sure to organize a recap or synthesis session at the end of a research project where all stakeholders can participate and hone their insights.
 
 ## Make time
 
@@ -40,7 +40,7 @@ We recommend having a similar goal for research participation.
 
 ## Make the benefits visible
 
-It is common wisdom that customer-centric companies that invest in user research build better products and become more successful. But user research struggles with the problem that the rewards of it are realized with a great delay and therefore often gets overlooked. Between uncovering a golden customer insight and designing, developing, and deploying a feature based on it, months or in some cases years can pass. This makes it basically impossible to accurately model and attribute to user research the resulting increase in customer satisfaction and monetary benefits, such as customer retention.
+It is common wisdom that customer-centric companies investing in user research build better products and become more successful. But user research struggles with the problem that the rewards of this investment are realized with a great delay, and therefore its value often gets overlooked. Between uncovering a golden customer insight and designing, developing, and deploying a feature based on it, months, or in some cases, years can pass. This makes it basically impossible to accurately model and attribute the resulting increase in customer satisfaction and monetary benefits to user research.
 
 This is why it's important for researchers to implement **[leading indicators](https://www.bmc.com/blogs/leading-vs-lagging-indicators/){target=_blank}** to measure the value of research. So important, that we have dedicated an entire section to doing this with **[Impact Surveys](/impact_survey)**.
 
@@ -52,7 +52,7 @@ Such indicators provide an easy-to-understand KPI for research participation. We
 
 - Create a task list and allocate dedicated time in your schedule to evangelize research participation.
 - Talk to people and find your champions in the organization.
-- Set up a guild and work together. You will be surprised how many people you can get behind your cause from all parts of the organization.
+- Set up a guild and work together. You will be surprised how many people will get behind your cause from all parts of the organization.
 - Get time on the agenda in town halls, internal presentations, and other large meetings. The bigger the better.
 - Always proactively publish opportunities to join research.
 

@@ -2,7 +2,7 @@
 
 Once you have set up your booking link, you have to share it with a large audience to recruit participants for your projects. There are a number of ways to effectively achieve this.
 
-These approaches focus on recruiting participants from within your own customer base. This usually yields better quality participants, however in some cases, such as expanding to new markets, it may be a good option to recruit from a third-party panel. 
+These approaches focus on recruiting participants from within your own customer base. This usually yields better quality participants, however, in some cases, such as expanding to new markets, it may be a good option to recruit from a third-party panel. 
 
 ## Email
 The most basic way of recruiting participants is sending them an email asking them to participate in research. You can embed your appointment link in these emails to let the user immediately book a session with you.

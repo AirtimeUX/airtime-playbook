@@ -6,7 +6,7 @@ To comply with GDPR requirements you need to make sure that every participant ha
 
 ## Using an Invitee Question in Calendly
 
-This is a barebones and straightforward approach consisting of only free steps:
+This is a barebones and straightforward approach consisting of only three steps:
 
 1. **Upload your consent form to a publicly accessible link.** A public PDF in google drive will do.
 2. **Create a shortened link to the form.** This improves readability and gets around the character limit for Calendly questions. You can use a link shortener service like [bit.ly](https://www.bitly.com){target=_blank}.

@@ -1,6 +1,6 @@
 # Welcome to the Collaborative User Research Playbook
 
-Every product company wants to build better products faster. Modern product teams are already good at **building** and releasing products quickly and iteratively but tend to lag behind, when it comes to **learning** about their users at the same speed. 
+Every product company wants to build better products faster. Modern product teams are already good at **building** and releasing products quickly and iteratively but tend to lag behind when it comes to **learning** about their users at the same speed. 
 
 This guide contains a practical set of processes and techniques that you can implement to create a fast and lightweight user research practice that makes an impact within your organization.
 
@@ -14,4 +14,4 @@ Fast research has 3 pillars:
 
 [<img src="img/airtime_banner.svg" style="width:50%;"/>](https://airtimeux.com){target=_blank}
 
-**This guide was brought to you by [Airtime](https://airtimeux.com/).** We build dedicated software to enable researchers to set up a continuous and collaborative research practice. Check out the website to learn more!
+**This guide is brought to you by [Airtime](https://airtimeux.com/).** We build dedicated software to enable researchers to set up a continuous and collaborative research practice. Check out our website to learn more!

@@ -3,7 +3,7 @@
 To make the scheduling of user sessions easy, we recommend using an online appointment scheduling service.
 These tools can save you a lot of time by providing end users with a simple calendar interface where they can sign up to a timeslot when you're available. They can also automatically handle if a participant needs to reschedule or cancel, saving you a lot of email ping-pong.
 
-The most popular tool in this space is [Calendly](https://calendly.com/){target=_blank}. The free version is enough for executing a single research project, for long-term use a paid version is necessary.
+The most popular tool in this space is [Calendly](https://calendly.com/){target=_blank}. The free version is enough for executing a single research project, but for long-term use a paid version is necessary.
 
 There are a number of alternative scheduling tools with different features and pricing schemes available:
 
