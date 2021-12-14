@@ -12,6 +12,6 @@ Fast research has 3 pillars:
 
 <br />
 
-[<img src="../img/airtime_banner.svg" style="width:50%;"/>](https://airtimeux.com){target=_blank}
+[<img src="img/airtime_banner.svg" style="width:50%;"/>](https://airtimeux.com){target=_blank}
 
 **This guide is brought to you by [Airtime](https://airtimeux.com/){target=_blank}.** We build dedicated software to enable researchers to set up a continuous and collaborative research practice. Check out our website to learn more!

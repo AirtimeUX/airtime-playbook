@@ -41,7 +41,7 @@ Questions in an Impact Survey should measure areas that you expect to be positiv
 
 ## Template
 
-You can copy our Google Forms [Impact Survey Template](https://docs.google.com/forms/d/e/1FAIpQLScuCrSh3AvxXexmTR_y2ixINZ7jUTWdEVxrDleXY3jUUT986Q/viewform?usp=sf_link) and start building your own.
+You can copy our Google Forms [Impact Survey Template](https://docs.google.com/forms/d/e/1FAIpQLScuCrSh3AvxXexmTR_y2ixINZ7jUTWdEVxrDleXY3jUUT986Q/viewform?usp=sf_link){target=_blank} and start building your own.
 
 The built-in "Responses" feature of Google Forms provides a perfectly good overview of responses for most cases.
 For more detailed analysis, such as observing trends over time, you can link the Form to a Google Sheet or export the responses in CSV and conduct your analysis in a Pivot Table in a spreadsheet tool.
