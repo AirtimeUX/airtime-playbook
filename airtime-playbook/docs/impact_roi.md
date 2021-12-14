@@ -28,7 +28,8 @@ The barebones way of achieving this is manually maintaining an excel or Airtable
 
 Some companies even set user exposure targets for different roles. This may or may not be suitable for you depending on your organizational culture.
 
-[<img src="/img/nng_exposure_goals.png" />](https://www.nngroup.com/articles/user-exposure-goals/){target=_blank}
+[<img src="../img/nng_exposure_goals.png" />](https://www.nngroup.com/articles/user-exposure-goals/){target=_blank}
+
 Recommended user exposure goals. Source: [Nielsen Norman Group](https://www.nngroup.com/articles/user-exposure-goals/)
 
 ## Tracking the impact of customer exposure
@@ -41,5 +42,5 @@ Some popular examples of such models are:
 - [Spotify's Squad Health Check Model](https://engineering.atspotify.com/2014/09/16/squad-health-check-model/){target=_blank}
 - [Employee Engagement Surveys](https://www.cultureamp.com/blog/employee-engagement-survey-questions){target=_blank}
 
-Our [Impact Survey](/impact_survey) is a proposal for implementing such a model for customer exposure and user research maturity.
+Our [Impact Survey](../impact_survey) is a proposal for implementing such a model for customer exposure and user research maturity.
 

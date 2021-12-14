@@ -51,6 +51,6 @@ You may want to repeat steps 3 & 4 for different triggers in case you want to of
 1. Define your schedule: What hours during the week can you save for interviews?
 2. Write a short intro for your booking link describing the purpose of the meeting.
 3. Decide rewards and incentives (monetary or non-monetary)
-4. Follow the guide in [Using an appointment scheduling tool](/continuous_appointment_scheduling) to set up your booking link.
+4. Follow the guide in [Using an appointment scheduling tool](../continuous_appointment_scheduling) to set up your booking link.
 
 Use our [template](https://miro.com/app/board/uXjVOcvVHRM=/?moveToWidget=3458764514680355484&cot=14){target=_blank} in Miro to plan out the above steps.

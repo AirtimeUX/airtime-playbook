@@ -10,7 +10,7 @@ It's an ever-present challenge for user researchers to make sure that participat
 
 Treat your research as your product and your stakeholders like your customers. If a product is difficult to buy, people don't buy it. The easier you make it to participate in your research, the less resistance you will see from the product team, or even other stakeholders, like leadership.
 
-Setting up an **[Internal Research Calendar](/collaborative_calendar)** and **proactively notifying stakeholders** about opportunities to join research is a good way to start.
+Setting up an **[Internal Research Calendar](../collaborative_calendar)** and **proactively notifying stakeholders** about opportunities to join research is a good way to start.
 
 ## Make it engaging
 
@@ -42,7 +42,7 @@ We recommend having a similar goal for research participation.
 
 It is common wisdom that customer-centric companies investing in user research build better products and become more successful. But user research struggles with the problem that the rewards of this investment are realized with a great delay, and therefore its value often gets overlooked. Between uncovering a golden customer insight and designing, developing, and deploying a feature based on it, months, or in some cases, years can pass. This makes it basically impossible to accurately model and attribute the resulting increase in customer satisfaction and monetary benefits to user research.
 
-This is why it's important for researchers to implement **[leading indicators](https://www.bmc.com/blogs/leading-vs-lagging-indicators/){target=_blank}** to measure the value of research. So important, that we have dedicated an entire section to doing this with **[Impact Surveys](/impact_survey)**.
+This is why it's important for researchers to implement **[leading indicators](https://www.bmc.com/blogs/leading-vs-lagging-indicators/){target=_blank}** to measure the value of research. So important, that we have dedicated an entire section to doing this with **[Impact Surveys](../impact_survey)**.
 
 Such indicators provide an easy-to-understand KPI for research participation. We recommend proactively publishing them at recurring KPI meetings or town halls.
 
@@ -64,8 +64,8 @@ Trying to implement big changes all at once hardly ever succeeds. We recommend s
 2. Identify the product team (or teams) that the project is relevant to.
     - Ideally, you should start with a team working on more customer-facing features, as they have a naturally higher interest in engaging with customers
 3. Brief the leads and the teams about what to expect and get their buy-in. The goal should be to get everyone to participate in 2 sessions.
-4. Run an initial survey before the project start to gauge their current level of understanding the user needs and other key metrics (more on this under [Understanding research ROI](/impact_roi))
-5. Set up an internal [research calendar](/collaborative_calendar) and share it with the team
+4. Run an initial survey before the project start to gauge their current level of understanding the user needs and other key metrics (more on this under [Understanding research ROI](../impact_roi))
+5. Set up an internal [research calendar](../collaborative_calendar) and share it with the team
 6. As you organize your sessions, keep the team posted about interview timeslots they can sign up to.
 7. Brief stakeholders before the interviews
     - Make sure they prepare with questions
@@ -73,6 +73,6 @@ Trying to implement big changes all at once hardly ever succeeds. We recommend s
 8. Run the user sessions with the stakeholders participating
 9. Synthesize and analyze project findings as you would normally
 10. Organize a final session with all stakeholders present to share and discuss insights
-11. Run an [Impact Survey](/impact_survey) after the project is concluded and measure the improvement on key KPIs.
+11. Run an [Impact Survey](../impact_survey) after the project is concluded and measure the improvement on key KPIs.
 12. Share the results with leadership and the rest of the organization to make a case for research participation.
 
