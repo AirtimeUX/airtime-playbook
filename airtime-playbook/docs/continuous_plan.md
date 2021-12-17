@@ -1,3 +1,8 @@
+---
+title: Making a plan for continuous research
+description: A practical guide to improving your user research processes.
+---
+
 # Making a plan for continuous research
 
 Continuous research is defined as *Regular (weekly) touchpoints with customers by the team building the product, where they conduct small research activities in pursuit of a desired product outcome.*

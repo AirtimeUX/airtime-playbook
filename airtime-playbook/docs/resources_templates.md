@@ -1,3 +1,8 @@
+---
+title: Templates
+description: Templates to improve your user research processes.
+---
+
 # Templates
 
 This is a collection of all the templates referrenced in this guide:

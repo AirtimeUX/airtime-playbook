@@ -1,3 +1,8 @@
+---
+title: Setting up a stakeholder calendar
+description: A practical guide to improving your user research processes.
+---
+
 # Setting up a stakeholder calendar
 
 An internal research calendar can be a useful tool to keep participation opportunities on the radar of stakeholders and simplify administration.

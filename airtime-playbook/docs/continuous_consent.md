@@ -1,3 +1,8 @@
+---
+title: Automating consent
+description: A practical guide to improving your user research processes.
+---
+
 # Automating consent
 
 To comply with GDPR requirements you need to make sure that every participant has given consent before participating in research.
@@ -18,6 +23,6 @@ This is a barebones and straightforward approach consisting of only three steps:
 
 If you need more sophisticated research governance features [Consentkit](https://consentkit.com/){target=_blank} is a good alternative. Watch this tutorial to get started:
 
-[<img src="https://i.vimeocdn.com/filter/overlay?src0=https://i.vimeocdn.com/video/1046548493-a2422f9104466c7ac1746abb4eae5bba60c02c0391108a8345526ce1832c7498-d?mw=2500&mh=1563&q=70%22&src1=http%3A%2F%2Ff.vimeocdn.com%2Fp%2Fimages%2Fcrawler_play.png" />](https://consentkit.com/watch-demo){target=_blank}
+[![Consentkit demo video](https://i.vimeocdn.com/filter/overlay?src0=https://i.vimeocdn.com/video/1046548493-a2422f9104466c7ac1746abb4eae5bba60c02c0391108a8345526ce1832c7498-d?mw=2500&mh=1563&q=70%22&src1=http%3A%2F%2Ff.vimeocdn.com%2Fp%2Fimages%2Fcrawler_play.png)](https://consentkit.com/watch-demo){target=_blank}
 
 In this setup, you have to manually send out the consent form from Consentkit to every participant that signs up for a session. It's a bit of work to keep everything in sync.

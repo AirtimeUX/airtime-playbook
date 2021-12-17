@@ -1,3 +1,8 @@
+---
+title: Streaming sessions
+description: A practical guide to improving your user research processes.
+---
+
 # Streaming sessions
 
 There are two ways you can involve stakeholders in a user session:

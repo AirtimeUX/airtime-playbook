@@ -1,3 +1,8 @@
+---
+title: Collaborative note taking and debriefing
+description: A practical guide to improving your user research processes.
+---
+
 # Collaborative note taking and debriefing
 
 Note taking is a good way of keeping observers from the team engaged during the session and a joint debriefing can establish a consensus on what was said during the session so everyone walks away with the same conclusions.

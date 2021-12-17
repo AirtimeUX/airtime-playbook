@@ -1,3 +1,8 @@
+---
+title: Impact Survey
+description: A practical guide to improving your user research processes.
+---
+
 # Impact Survey
 
 An Impact Survey has two goals:

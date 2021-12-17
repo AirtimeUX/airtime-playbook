@@ -1,3 +1,8 @@
+---
+title: Setting up a recruitment pipeline
+description: A practical guide to improving your user research processes.
+---
+
 # Setting up a recruitment pipeline
 
 Once you have set up your booking link, you have to share it with a large audience to recruit participants for your projects. There are a number of ways to effectively achieve this.

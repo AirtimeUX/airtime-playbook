@@ -1,3 +1,8 @@
+---
+title: Getting buy-in
+description: A practical guide to improving your user research processes.
+---
+
 # Getting buy-in
 
 It is well understood that involving stakeholders in user research is hugely valuable, and **critical for creating a user-centric organization** that builds great products.
