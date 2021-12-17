@@ -1,6 +1,7 @@
 site_name: The Collaborative UX Research Playbook
-site_url: https://playbook.aritimeux.com
+site_url: https://playbook.airtimeux.com
 site_description: A collection of guides and resources to implement a continuous and collaborative user research process. Setting up an automated recruiting pipeline, team research calendar, collaborative note taking, automating consent, and other processes to make UX research faster and more impactful.
+site_author: The Airtime Team
 markdown_extensions:
   - meta
   - attr_list
