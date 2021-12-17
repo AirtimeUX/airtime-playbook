@@ -27,7 +27,7 @@ theme:
   custom_dir: overrides
   name: material
   palette:
-    primary: indigo
+    primary: blue grey
     accent: pink
   features:
     - navigation.sections
