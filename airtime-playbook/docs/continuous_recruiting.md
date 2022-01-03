@@ -14,14 +14,14 @@ The most basic way of recruiting participants is sending them an email asking th
 
 CRM and Email marketing tools are especially helpful for sending out mass emails.
 
-- [Salesforce](https://salesforce.com){target=_blank}
-- [Mailchimp](https://mailchimp.com/){target=_blank}
+- [Salesforce](https://salesforce.com){target=_blank; rel="noreferrer noopener"}
+- [Mailchimp](https://mailchimp.com/){target=_blank; rel="noreferrer noopener"}
 
 ## Embedding in your website
 
 Calendly lets you add its booking flow directly to your website, so your users can schedule a session with you conveniently, without leaving your site. You will have to involve the dev team to do this, but it requires minimal development work and can be accomplished quickly.
 
-[Follow this tutorial for details.](https://help.calendly.com/hc/en-us/articles/223147027-Embed-options-overview?tab=general#embed-options-overview-0-0){target=_blank}
+[Follow this tutorial for details.](https://help.calendly.com/hc/en-us/articles/223147027-Embed-options-overview?tab=general#embed-options-overview-0-0){target=_blank; rel="noreferrer noopener"}
 
 ## Using an in-app interrupt
 
@@ -36,7 +36,7 @@ These tools usually require little to no coding, but some thought to set up.
 Some examples for this approach are:
 
  - [Popupsmart](https://popupsmart.com/explore-features/
-){target=_blank}
- - [Hubspot Popup Form](https://www.hubspot.com/products/marketing/pop-up-form){target=_blank}
- - [Hotjar Surveys](https://www.hotjar.com/){target=_blank}
+){target=_blank; rel="noreferrer noopener"}
+ - [Hubspot Popup Form](https://www.hubspot.com/products/marketing/pop-up-form){target=_blank; rel="noreferrer noopener"}
+ - [Hotjar Surveys](https://www.hotjar.com/){target=_blank; rel="noreferrer noopener"}
  

@@ -41,13 +41,13 @@ Organizations often allocate time and effort to important tasks that otherwise m
 These types of goals are simple, easy to understand, and easy to commit to. They build culture, and leadership loves them.
 We recommend having a similar goal for research participation.
 
-**[2 hours every six weeks](https://articles.uie.com/user_exposure_hours/){target=_blank}** is a good number, but you might want to start smaller to ease adoption. Setting the goal is the important part. It also makes sense to think about different types of stakeholders and target a different number for each type. Designers arguably benefit more from spending time in research than executives or devops engineers.
+**[2 hours every six weeks](https://articles.uie.com/user_exposure_hours/){target=_blank; rel="noreferrer noopener"}** is a good number, but you might want to start smaller to ease adoption. Setting the goal is the important part. It also makes sense to think about different types of stakeholders and target a different number for each type. Designers arguably benefit more from spending time in research than executives or devops engineers.
 
 ## Make the benefits visible
 
 It is common wisdom that customer-centric companies investing in user research build better products and become more successful. But user research struggles with the problem that the rewards of this investment are realized with a great delay, and therefore its value often gets overlooked. Between uncovering a golden customer insight and designing, developing, and deploying a feature based on it, months, or in some cases, years can pass. This makes it basically impossible to accurately model and attribute the resulting increase in customer satisfaction and monetary benefits to user research.
 
-This is why it's important for researchers to implement **[leading indicators](https://www.bmc.com/blogs/leading-vs-lagging-indicators/){target=_blank}** to measure the value of research. So important, that we have dedicated an entire section to doing this with **[Impact Surveys](../impact_survey)**.
+This is why it's important for researchers to implement **[leading indicators](https://www.bmc.com/blogs/leading-vs-lagging-indicators/){target=_blank; rel="noreferrer noopener"}** to measure the value of research. So important, that we have dedicated an entire section to doing this with **[Impact Surveys](../impact_survey)**.
 
 Such indicators provide an easy-to-understand KPI for research participation. We recommend proactively publishing them at recurring KPI meetings or town halls.
 

@@ -29,23 +29,23 @@ You can't manage what you don't measure as they say. The first step is to get a 
 - The total number of research projects and user sessions you have done
 - All stakeholders that have joined user sessions
 
-The barebones way of achieving this is manually maintaining an excel or Airtable-based database of user sessions and participants. You can use this [Airtable template](https://airtable.com/invite/l?inviteId=invXWyYXZiLPPu1Ri&inviteToken=86c0d2bb504835fc89ee0011af2f9ef42898680cee7d820e8d549148fe7b2835&utm_source=email){target=_blank} to get started. Ultimately, you can automate this process by using a centralized tool with reporting features to schedule your user sessions.
+The barebones way of achieving this is manually maintaining an excel or Airtable-based database of user sessions and participants. You can use this [Airtable template](https://airtable.com/invite/l?inviteId=invXWyYXZiLPPu1Ri&inviteToken=86c0d2bb504835fc89ee0011af2f9ef42898680cee7d820e8d549148fe7b2835&utm_source=email){target=_blank; rel="noopener"} to get started. Ultimately, you can automate this process by using a centralized tool with reporting features to schedule your user sessions.
 
 Some companies even set user exposure targets for different roles. This may or may not be suitable for you depending on your organizational culture.
 
-[![Exposure goals by NNG](img/nng_exposure_goals.png)](https://www.nngroup.com/articles/user-exposure-goals/){target=_blank}
+[![Exposure goals by NNG](img/nng_exposure_goals.png)](https://www.nngroup.com/articles/user-exposure-goals/){target=_blank; rel="noreferrer noopener"}
 
 Recommended user exposure goals. Source: [Nielsen Norman Group](https://www.nngroup.com/articles/user-exposure-goals/)
 
 ## Tracking the impact of customer exposure
 
-[There are several ways](https://nataliehanson.com/2017/02/13/ux-maturity-models/){target=_blank} to model the UX maturity of an organization. All of them share something in common: In mature organizations, every employee has empathy with the customers, understands their pains and needs, and incorporates them into their daily work. Yet very few organizations have an understanding of where they stand and how their investment in user research moves them towards this goal.
+[There are several ways](https://nataliehanson.com/2017/02/13/ux-maturity-models/){target=_blank; rel="noreferrer noopener"} to model the UX maturity of an organization. All of them share something in common: In mature organizations, every employee has empathy with the customers, understands their pains and needs, and incorporates them into their daily work. Yet very few organizations have an understanding of where they stand and how their investment in user research moves them towards this goal.
 
 Organizations already implement ways to measure and visualize how their teams are doing in various areas. These types of models intend to get a sense of where to focus improvement efforts, and help teams become more self-aware so they can focus their improvement efforts too.
 Some popular examples of such models are:
 
-- [Spotify's Squad Health Check Model](https://engineering.atspotify.com/2014/09/16/squad-health-check-model/){target=_blank}
-- [Employee Engagement Surveys](https://www.cultureamp.com/blog/employee-engagement-survey-questions){target=_blank}
+- [Spotify's Squad Health Check Model](https://engineering.atspotify.com/2014/09/16/squad-health-check-model/){target=_blank; rel="noreferrer noopener"}
+- [Employee Engagement Surveys](https://www.cultureamp.com/blog/employee-engagement-survey-questions){target=_blank; rel="noreferrer noopener"}
 
 Our [Impact Survey](../impact_survey) is a proposal for implementing such a model for customer exposure and user research maturity.
 

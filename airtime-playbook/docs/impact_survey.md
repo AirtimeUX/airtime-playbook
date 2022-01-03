@@ -16,7 +16,7 @@ Impact Surveys are not a replacement for other design metrics, but a useful huma
 
 ## Question types
 
-Questions in an Impact survey should be a composition of rating scales and free-text answers. Rating scales allow you to quantify answers and track changes over time, while free-text answers let you discover root causes and come up with actions. [Likert scales](https://en.wikipedia.org/wiki/Likert_scale){target=_blank} combined with free-text fields asking to elaborate on the rating are a good start. Similar questions are used in many standard UX surveys, such as SUS (System Usability Scale). 
+Questions in an Impact survey should be a composition of rating scales and free-text answers. Rating scales allow you to quantify answers and track changes over time, while free-text answers let you discover root causes and come up with actions. [Likert scales](https://en.wikipedia.org/wiki/Likert_scale){target=_blank; rel="noreferrer noopener"} combined with free-text fields asking to elaborate on the rating are a good start. Similar questions are used in many standard UX surveys, such as SUS (System Usability Scale). 
 
 ![Example of a Likert scale question](img/sus_question.png)
 
@@ -46,7 +46,7 @@ Questions in an Impact Survey should measure areas that you expect to be positiv
 
 ## Template
 
-You can copy our Google Forms [Impact Survey Template](https://docs.google.com/forms/d/e/1FAIpQLScuCrSh3AvxXexmTR_y2ixINZ7jUTWdEVxrDleXY3jUUT986Q/viewform?usp=sf_link){target=_blank} and start building your own.
+You can copy our Google Forms [Impact Survey Template](https://docs.google.com/forms/d/e/1FAIpQLScuCrSh3AvxXexmTR_y2ixINZ7jUTWdEVxrDleXY3jUUT986Q/viewform?usp=sf_link){target=_blank; rel="noreferrer noopener"} and start building your own.
 
 The built-in "Responses" feature of Google Forms provides a perfectly good overview of responses for most cases.
 For more detailed analysis, such as observing trends over time, you can link the Form to a Google Sheet or export the responses in CSV and conduct your analysis in a Pivot Table in a spreadsheet tool.

@@ -20,11 +20,11 @@ A good starting point for such guidelines:
 - **Don’t come up with solutions** right now
 
 Make sure that you do your note taking in a shared document, in a format that fits how you want to process the notes.
-Here is a [Miro template](https://miro.com/app/board/uXjVOcvVHRM=/?moveToWidget=3458764514681714737&cot=14){target=_blank} to get started. Assign a sticky note color to each observer, where they will take their notes.
+Here is a [Miro template](https://miro.com/app/board/uXjVOcvVHRM=/?moveToWidget=3458764514681714737&cot=14){target=_blank; rel="noopener"} to get started. Assign a sticky note color to each observer, where they will take their notes.
 
 ## Debriefing
 
 Always book time straight after the interview to discuss the notes and observations with the observer team. Observations are forgotten and distorted quickly, so right after the interview with fresh memories is the only chance to do this effectively.
 
-You can use the same [Miro template](https://miro.com/app/board/uXjVOcvVHRM=/?moveToWidget=3458764514681714737&cot=14){target=_blank} that you used for note taking. Leave a couple of minutes in the beginning for observers to clean up and structure their notes, then do a basic Affinity Mapping exercise, simply grouping related stickies, discussing them, and drawing insights from groups of related notes.
+You can use the same [Miro template](https://miro.com/app/board/uXjVOcvVHRM=/?moveToWidget=3458764514681714737&cot=14){target=_blank; rel="noopener"} that you used for note taking. Leave a couple of minutes in the beginning for observers to clean up and structure their notes, then do a basic Affinity Mapping exercise, simply grouping related stickies, discussing them, and drawing insights from groups of related notes.
 Repeat for each user you interview on the same Miro board to have an overview for all insights in one place.

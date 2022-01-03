@@ -25,5 +25,5 @@ This approach can be great for giving multiple stakeholders the opportunity to j
 
 Here are a few guides on how to set up streaming in popular video conferencing tools:
 
-- [Zoom](https://support.zoom.us/hc/en-us/articles/115001777826-Live-streaming-using-a-custom-service){target=_blank}
-- [Google Meet](https://support.google.com/meet/answer/9308630?hl=en&co=GENIE.Platform%3DDesktop){target=_blank}
+- [Zoom](https://support.zoom.us/hc/en-us/articles/115001777826-Live-streaming-using-a-custom-service){target=_blank; rel="noreferrer noopener"}
+- [Google Meet](https://support.google.com/meet/answer/9308630?hl=en&co=GENIE.Platform%3DDesktop){target=_blank; rel="noreferrer noopener"}
