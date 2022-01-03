@@ -59,3 +59,9 @@ You may want to repeat steps 3 & 4 for different triggers in case you want to of
 4. Follow the guide in [Using an appointment scheduling tool](../continuous_appointment_scheduling) to set up your booking link.
 
 Use our [template](https://miro.com/app/board/uXjVOcvVHRM=/?moveToWidget=3458764514680355484&cot=14){target=_blank} in Miro to plan out the above steps.
+
+## Learn more
+
+Want to learn more about setting up a continuous research pipeline? Check out the live courses offered by our friends at [**The Fountain Institue**](https://www.thefountaininstitute.com/){target=_blank}!
+
+[![Banner of The Fountain Institute](img/fountain_institute_banner.jpg){: style="width:75%"}](https://www.thefountaininstitute.com/){target=_blank}
