@@ -52,14 +52,23 @@
   
 
 
-  
+  <script>
+  /* Add custom analytics integration here, e.g. */
+  var property = "GTM-WFW7KVB" 
 
-  
 
-
-  <script>function gtag(){dataLayer.push(arguments)}window.dataLayer=window.dataLayer||[],gtag("js",new Date),gtag("config","G-E6Z1GFTEJS"),document.addEventListener("DOMContentLoaded",function(){"undefined"!=typeof location$&&location$.subscribe(function(t){gtag("config","G-E6Z1GFTEJS",{page_path:t.pathname})})})</script>
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-E6Z1GFTEJS"></script>
-
+  /* Wait for page to load and application to mount */
+  document.addEventListener("DOMContentLoaded", function() {
+    location$.subscribe(function(url) {
+      // Google Tag Manager
+      (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+      new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+      j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+      'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+      })(window,document,'script','dataLayer','property');
+    })
+  })
+</script>
 
     
     
