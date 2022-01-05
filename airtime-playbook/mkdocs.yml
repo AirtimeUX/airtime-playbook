@@ -17,11 +17,12 @@ nav:
         - 'collaborative_calendar.md'
         - 'collaborative_note_debrief.md'
         - 'collaborative_streaming.md'
-    - Measuring the Impact of User Exposure:
+    - Measuring the Imphact of User Exposure:
         - 'impact_roi.md'
         - 'impact_survey.md'
     - Resources:
         - 'resources_templates.md'
+plugins: []
 theme:
   logo: assets/airtime_logo_icon_white_32px.svg
   custom_dir: overrides
