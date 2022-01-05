@@ -4,6 +4,7 @@ script.async = true;
 document.head.appendChild(script);
 
 document.addEventListener('keydown', (e) => {
+  console.log(e.target);
   e.stopPropagation();
 });
 
