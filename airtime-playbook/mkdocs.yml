@@ -34,5 +34,6 @@ theme:
 extra:
   generator: false
   analytics:
-    provider: google
-    property: G-E6Z1GFTEJS
+    provider: tagmanager
+    property: GTM-WFW7KVB
+
