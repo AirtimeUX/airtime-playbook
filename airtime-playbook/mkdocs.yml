@@ -36,3 +36,5 @@ extra:
   analytics:
     provider: google
     property: G-E6Z1GFTEJS
+extra_javascript:
+  - js/popupsmart.js
