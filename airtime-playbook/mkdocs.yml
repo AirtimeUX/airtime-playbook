@@ -22,7 +22,6 @@ nav:
         - 'impact_survey.md'
     - Resources:
         - 'resources_templates.md'
-plugins: []
 theme:
   logo: assets/airtime_logo_icon_white_32px.svg
   custom_dir: overrides
