@@ -34,8 +34,7 @@ theme:
 extra:
   generator: false
   analytics:
-    provider: google
-    property: G-E6Z1GFTEJS
+    provider: custom
   disqus: airtime-playbook
 extra_javascript:
   - js/popupsmart.js
